@@ -39,8 +39,8 @@ Try to use gifs on your pull request, why? is funny
 
 Ask someone to review your pull request, yes we talking about code review
 
-[Great code review](https://www.atlassian.com/blog/software-teams/5-tips-great-code-reviews)
+[How to do a great code review](https://www.atlassian.com/blog/software-teams/5-tips-great-code-reviews)
 
-After the code, just aprove and merge the pull request
+After the code review, just aprove and merge the pull request
 
-[Merging a pull request](https://help.github.com/articles/merging-a-pull-request/)
+[How to merging a pull request](https://help.github.com/articles/merging-a-pull-request/)
