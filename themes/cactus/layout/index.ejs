@@ -37,7 +37,7 @@
     <% } %>
     <% show_posts.each(function(post, i){ %>
       <li class="post-item">
-        <a href="<%- url_for(post.link) %>" target="_blank" itemprop="url"><%= post.title %></a>: 
+        <a href="<%- url_for(post.path) %>" itemprop="url"><%= post.title %></a>: 
         <p><%= post.desc %></p>
       </li> 
     <% }); %>
